@@ -241,4 +241,4 @@ This repository serves as the official landing page for RealPlayer Cloud. The so
 **Get the most recent version of RealPlayer Cloud today!**
 
 ---
-**Last updated:** 2026-09-22 03:23:43 UTC
+**Last updated:** 2026-09-22 09:01:06 UTC
